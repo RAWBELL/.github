@@ -3,5 +3,5 @@
 
 ## Owners
   Danukajie Hansanath <br/>
-  Sasmitha weerakkodi
-  Malitha Mihiranga
+  Sasmitha weerakkodi <br/>
+  Malitha Mihiranga <br/>
